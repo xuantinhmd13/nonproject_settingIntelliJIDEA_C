@@ -59,6 +59,7 @@
   <action id="ResizeToolWindowRight" />
   <action id="ResizeToolWindowUp" />
   <action id="ResourceExplorer.show" />
+  <action id="RunClass" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="SendEOF" />
   <action id="ShowBookmarks">
